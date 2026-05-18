@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahesh Shinde
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+%7C+DSA+%7C+Web+Developer;MSc+Computer+Applications;Problem+Solver+%7C+Tech+Enthusiast;Always+Building+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+%7C+DSA+%7C+React+Developer;MSc+Computer+Applications;Problem+Solver+%7C+Tech+Enthusiast;Always+Building+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -11,8 +11,8 @@
 🎓 MSc Computer Applications Student (Pune, India)  
 💻 Full Stack Developer  
 🧠 Strong in Java, DSA & Problem Solving  
-🌐 Love building real-world web applications  
-⚡ Interested in Cloud, AI & Backend Systems  
+🌐 Passionate about building scalable web applications  
+⚡ Interested in Cloud, Backend Systems & AI Tools  
 
 ---
 
@@ -43,76 +43,61 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesh1055&show_icons=true&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh1055&layout=compact&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh1055&hide_border=true" />
-</p>
-
----
-
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahesh1055&style=for-the-badge&color=0e75b6" />
-</p>
-
----
-
 ## 💼 Projects
 
 ### 🚌 SchoolPool – Smart Carpool System
 - React.js + ASP.NET + SQL Server  
 - Secure authentication system  
 - Ride sharing & group management  
+- Optimized backend architecture  
 
 ---
 
 ### 🌐 Dynamic Web Hub
-- HTML, CSS, JS, PHP, MySQL  
+- HTML, CSS, JavaScript, PHP, MySQL  
 - OTP login system 🔐  
-- AI chatbot + Weather API + tools  
+- AI chatbot 🤖  
+- Weather API + utility tools  
+- Fully responsive UI  
 
 ---
 
 ## 🎯 Current Focus
 
-- Java DSA (Interview Preparation)
-- Full Stack Development
-- Cloud (AWS basics)
-- Building real-world projects
+- 🔥 Mastering Data Structures & Algorithms (Java)  
+- ⚙️ Full Stack Development (React + Backend)  
+- ☁️ Learning AWS Cloud Basics  
+- 🚀 Building Real-World Projects  
+- 💡 Improving System Design Thinking  
 
 ---
 
-## 📈 Goals
+## 📈 Goals 2026
 
 ✔ Get Software Developer Job  
-✔ Master DSA  
-✔ Build 10+ Projects  
-✔ Learn System Design Basics  
+✔ Master DSA for Placements  
+✔ Build 10+ Real Projects  
+✔ Learn Cloud & DevOps Basics  
+✔ Contribute to Open Source  
 
 ---
 
-## ⚡ Quote
+## 👁️ Profile Views
 
 <p align="center">
-  <i>"Consistency beats talent when talent doesn't work hard."</i>
+  <img src="https://komarev.com/ghpvc/?username=mahesh1055&style=for-the-badge&color=00C2FF" />
+</p>
+
+---
+
+## ⚡ Coding Mindset
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
 </p>
 
 ---
 
 <p align="center">
-  🚀 Built with passion by <b>Mahesh Shinde</b>
+  🚀 Built with dedication by <b>Mahesh Shinde</b>
 </p>
