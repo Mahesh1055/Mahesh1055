@@ -1,7 +1,7 @@
-# 👋 Hey, I'm Mahesh Shinde
+# 👋 Hi, I'm Mahesh Shinde
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+%7C+DSA+%7C+Web+Developer;MSc+Computer+Applications+Student;Building+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+%7C+DSA+%7C+Web+Developer;MSc+Computer+Applications;Problem+Solver+%7C+Tech+Enthusiast;Always+Building+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -9,9 +9,9 @@
 ## 🚀 About Me
 
 🎓 MSc Computer Applications Student (Pune, India)  
-💻 Passionate Full Stack Developer  
-🧠 Strong in DSA, Java & Problem Solving  
-🌐 Building real-world scalable web applications  
+💻 Full Stack Developer  
+🧠 Strong in Java, DSA & Problem Solving  
+🌐 Love building real-world web applications  
 ⚡ Interested in Cloud, AI & Backend Systems  
 
 ---
@@ -43,19 +43,22 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahesh1055&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh1055&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahesh1055&show_icons=true&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh1055&layout=compact&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh1055&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh1055&hide_border=true" />
 </p>
 
 ---
@@ -68,52 +71,48 @@
 
 ---
 
-## 💼 Featured Projects
+## 💼 Projects
 
 ### 🚌 SchoolPool – Smart Carpool System
 - React.js + ASP.NET + SQL Server  
 - Secure authentication system  
-- Smart ride sharing & group management  
-- Optimized backend + database architecture  
+- Ride sharing & group management  
 
 ---
 
 ### 🌐 Dynamic Web Hub
-- HTML, CSS, JavaScript, PHP, MySQL  
-- AI chatbot integration 🤖  
-- OTP authentication system 🔐  
-- Weather API + Image generation tools  
-- Fully responsive modern UI  
+- HTML, CSS, JS, PHP, MySQL  
+- OTP login system 🔐  
+- AI chatbot + Weather API + tools  
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔥 Mastering Data Structures & Algorithms (Java)
-- ⚙️ Building Full Stack Projects
-- ☁️ Learning AWS & Cloud Deployment
-- 🚀 Preparing for Software Developer Placements
+- Java DSA (Interview Preparation)
+- Full Stack Development
+- Cloud (AWS basics)
+- Building real-world projects
 
 ---
 
-## 📈 2026 Goals
+## 📈 Goals
 
-✔ Crack Top Tech Placements  
-✔ Build 10+ Real World Projects  
-✔ Become Full Stack Developer  
+✔ Get Software Developer Job  
+✔ Master DSA  
+✔ Build 10+ Projects  
 ✔ Learn System Design Basics  
-✔ Start Open Source Contributions  
 
 ---
 
-## ⚡ Fun Quote
+## ⚡ Quote
 
 <p align="center">
-  <i>"Code is not just written — it's engineered."</i>
+  <i>"Consistency beats talent when talent doesn't work hard."</i>
 </p>
 
 ---
 
 <p align="center">
-  💙 Crafted with passion by <b>Mahesh Shinde</b> 🚀
+  🚀 Built with passion by <b>Mahesh Shinde</b>
 </p>
